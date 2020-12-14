@@ -86,6 +86,28 @@ branch1
 
 ![19](screens/report_branch.PNG)
 
+git config --global user.name "4917 Ivanov S.E"<br/>
+git config --global user.name<br/>
+git config --global user.email sergey_ivanov@mail.ru<br/>
+git config --global user.email
 
+git clone https://github.com/serzhaa/LR6.git<br/>
+git pull
 
+git log origin/master --oneline<br/>
+git log origin/branch1 --oneline<br/>
+git show --oneline
 
+git checkout branch1<br/>
+git checkout master<br/>
+git merge branch1<br/>
+git mergetool<br/>
+git branch -D branch1<br/>
+git commit -m "conflict was resolved"
+
+git status<br/>
+git add github_file<br/>
+git commit -m "Commit to be deleted"<br/>
+git reset --hard c591
+
+git branch report
