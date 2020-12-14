@@ -63,6 +63,29 @@ branch1
 
 ![13](screens/delete_branch1.PNG)
 
+После этого делаем первый commit:
+
+![14](screens/1st_commit.PNG)
+
+Далее сделаем дополнительный commit, чтобы его откатить.<br/>
+Для этого изменим github_file, который был добавлен через github:
+
+![15](screens/status_after_changes.PNG)
+
+![16](screens/add_file.PNG)
+
+Делаем commit:
+
+![17](screens/commit_to_be_deleted.PNG)
+
+Далее используем reset, чтобы его откатить:
+
+![18](screens/hard_reset.PNG)
+
+И создаём ветку для отчёта:
+
+![19](screens/report_branch.PNG)
+
 
 
 
