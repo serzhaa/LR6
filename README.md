@@ -113,3 +113,13 @@ git commit -m "Commit to be deleted"<br/>
 git reset --hard c591
 
 git branch report
+
+### Форматированные логи
+
+Для master:
+
+![20](screens/story_master.PNG)
+
+Для report:
+
+![20](screens/story_report.PNG)
