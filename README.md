@@ -86,6 +86,8 @@ branch1
 
 ![19](screens/report_branch.PNG)
 
+### Логи команд
+
 git config --global user.name "4917 Ivanov S.E"<br/>
 git config --global user.name<br/>
 git config --global user.email sergey_ivanov@mail.ru<br/>
