@@ -23,4 +23,23 @@
 
 ![4](screens/pull.PNG)
 
+### Шаги 7-13
+
+Получаем историю операций для каждой ветки:
+
+master
+
+![5](screens/master_log.PNG)
+
+branch1
+
+![6](screens/branch1_log.PNG)
+
+Последние изменения:
+
+![7](screens/last_changes.PNG)
+
+
+
+
 
