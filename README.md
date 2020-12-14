@@ -39,6 +39,29 @@ branch1
 
 ![7](screens/last_changes.PNG)
 
+#### Слияние ветки branch1 в master и разрешение конфликта с помощью mergetool.
+
+Копируем branch1 из удалённого репозитория:
+
+![8](screens/clone_branch1.PNG)
+
+Возвращаемся на мастер:
+
+![9](screens/back_to_master.PNG)
+
+Пытаемся сделать merge, но сталкиваемся с конфликтом:
+
+![10](screens/conflict.PNG)
+
+Поэтому запускаем mergetool:
+
+![11](screens/mergetool_cmd.PNG)
+
+![12](screens/mergetool.PNG)
+
+Закрываем mergetool и после успешного слияния удаляем локальную branch1
+
+![13](screens/delete_branch1.PNG)
 
 
 
